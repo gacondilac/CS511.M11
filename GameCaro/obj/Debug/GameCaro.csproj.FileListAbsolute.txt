@@ -1,0 +1,95 @@
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.ChoiVoiMay.resources
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.ChoiVoiNguoi.resources
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.GiaoDienVao.resources
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\DoAn\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.ChoiVoiMay.resources
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.ChoiVoiNguoi.resources
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.GiaoDienVao.resources
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\C#\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.Computer.resources
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.LAN.resources
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.Main.resources
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\Caro_Final\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\bin\Debug\MaterialSurface.dll
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.Computer.resources
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.LAN.resources
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.Main.resources
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.CopyComplete
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\C#\Do An cuoi ki\Caro_03_12\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\bin\Debug\MaterialSurface.dll
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.frmComputer.resources
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.frmLAN.resources
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.frmMain.resources
+C:\Users\ADMIN\Desktop\Caro_03_12\GameCaro\obj\Debug\GameCaro.frmAbout.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\bin\Debug\MaterialSurface.dll
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.frmAbout.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.frmComputer.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.frmLAN.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.frmMain.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\ADMIN\Desktop\UIT\Ky 5\C#\DoAn\Caro_game\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\Caro_game\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\Admin\Desktop\Caro_game\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\Caro_game\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\Admin\Desktop\Caro_game\GameCaro\bin\Debug\MaterialSurface.dll
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.frmAbout.resources
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.frmComputer.resources
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.frmLAN.resources
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.frmMain.resources
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.csproj.CopyComplete
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\Admin\Desktop\Caro_game\GameCaro\obj\Debug\GameCaro.pdb
